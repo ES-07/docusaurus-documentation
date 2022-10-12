@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'ES 007',
   tagline: 'Human Detection in CCTV Systems',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'es-docusaurus-documentation.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
