@@ -1,23 +1,52 @@
 ---
-slug: Fourth Spring 
-title: 4th sprint 
+slug: Third Spring 
+title: 3rd sprint 
 authors: [mariana]
 tags: [Fourth Week, Goals]
 ---
 
-In the fourth sprint we were expecting to complete the following user story:
-**Notify business' owner when an intrusion occurs**. To complete it, we had to fulfill the following requirements:
-* Finish API Sites Management
+# Sprint 3
+
+**From**: 1/11/2022
+
+**To**: 13/11/2022
+
+**Scrum Master:** Mariana Rosa
+
+**Product Owner:** Ricardo Rodriguez
+
+**Developers:** Artur Romão, João Farias, João Reis
+
+## Sprint Planning
+
+
+In the third sprint we were expecting to complete the following user story from the previous sprint: "As Teresa, I want to be notified when an intrusion occurs in my business, so that I can allow myself to be more comfortable and feel safe about my investment." (5 points)
+
+To do so we need to have this Sprint Goals:
+
+* To  Finish API Sites Management
 * Store Intrusions in DataBase, when **HDM** detects it
 * Intrusion API communicate with Notifications API, through API Gateway
 * Intrusion API asks for video frames to camera API and this module answers through rabbit mq
 * Intrusion API joins the received frames in a video and send it to AWS S3.
 
 
-In spite of, not all objectives were achieved, we considered that this was a positive sprint, once we fulfill the most priority ones.
+
+Story Points Estimated: 5
 
 
 
+## Sprint Review
+
+This sprint was not one of the bests, multiple reasons why. However, the fact that the API Sites Management was pratically done was a great thing and the two API can already comunicate and send video to AWS.
+
+Story Points Delivered: 0
 
 
+## Sprint Retrospective 
 
+ - What went well? Important goals reached.
+
+- What could be improved? Better time management.
+
+- What went badly? The team had a lot of other work from other courses.

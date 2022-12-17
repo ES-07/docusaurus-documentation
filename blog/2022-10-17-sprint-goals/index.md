@@ -19,7 +19,7 @@ tags: [Second Week, Goals, Review, Retrospective]
 **Developers:** Artur Romão, João Farias, Mariana Rosa
 
 ## Sprint Planning
-
+ss
 
 In our second week of development, the actual first sprint, the goals are the following: 
 * User story: "As Teresa, I want to check on my property's information" (3 points)
