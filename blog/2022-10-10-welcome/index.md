@@ -20,9 +20,9 @@ With the purpose of each of us developing our soft skills each week and have dif
 | Sprint | Scrum Master | Product Owner | Developers |
 | --- | --- | --- | --- |
 | 0 | João Farias | João Reis | Artur Romão, Mariana Rosa, Ricardo Rodriguez |
-| 1 | João Reis | João Farias | Artur Romão, João Farias, Mariana Rosa |
+| 1 | João Reis | João Farias | Artur Romão, Mariana Rosa, Ricardo Rodriguez |
 | 2 | Artur Romão | Mariana Rosa | João Farias, João Reis, Ricardo Rodriguez |
 | 3 | Mariana Rosa | Ricardo Rodriguez | Artur Romão, João Farias, João Reis |
 | 4 | Ricardo Rodriguez | João Farias | Artur Romão, João Reis, Mariana Rosa |
 | 5 | João Farias | João Reis | Artur Romão, Mariana Rosa, Ricardo Rodriguez |
-| 6 | João Reis | João Farias | Artur Romão, João Farias, Mariana Rosa |
+| 6 | João Reis | João Farias |  Artur Romão, Mariana Rosa, Ricardo Rodriguez|
