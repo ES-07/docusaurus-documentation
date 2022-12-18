@@ -1,8 +1,8 @@
 ---
-sidebar_label: 'Front-end'
+sidebar_label: 'Frontend'
 
 ---
-# Front-end
+# Frontend
 
 For the front-end we chose to use a framework the team was comfortable with, [Angular](https://angular.io/). 
 
