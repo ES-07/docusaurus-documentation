@@ -1,8 +1,8 @@
 ---
-sidebar_label: 'Frontend Manager Web UI (User Interface)'
+sidebar_label: 'Manager Web UI (User Interface)'
 ---
 
-# Frontend - Website Manager UI
+# Website Manager UI
 
 The Frontend Manager is a simple and intuitive system. 
 It has several pages:

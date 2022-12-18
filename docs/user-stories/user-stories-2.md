@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'User Story Acceptance Criteria'
+sidebar_label: 'Definition of done'
 ---
 # Definition of done
 

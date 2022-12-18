@@ -4,6 +4,7 @@ sidebar_label: 'Backend'
 
 # Backend
 
+![FastAPI](../static/img/fastapi.png)
 For the back-end, our team decide to explore the framework [FastAPI](https://fastapi.tiangolo.com/). FastAPI is an open-source Python web framework for building APIs (Application Programming Interfaces). It is designed to be easy to use and to provide high performance.
 
 One of the main advantages that led us to choose it is its fast development speed. It uses automatic documentation, which is generated from the code, and includes features such as validation, serialization, and routing. This makes it easier for developers to build APIs quickly and with fewer errors.

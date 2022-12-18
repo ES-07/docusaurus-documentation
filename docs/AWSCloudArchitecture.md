@@ -1,6 +1,10 @@
 ---
-sidebar_label: 'Modules'
+sidebar_label: 'AWS Cloud Architecture'
 ---
+
+# AWS Cloud Architecture
+
+
 
 As previously refered in the [Project Presentation](https://es-docusaurus-documentation.netlify.app/docs/hello/), this project has several modules and diferent technologies. In the course *Software Enginner*, one of the focus is to explore Amazon Web Services (AWS).  
 
@@ -12,4 +16,4 @@ AWS is extremely popular nowadays because it offers a pay-as-you-go pricing mode
 
 
 
-![AWS](../../static/img/AWS.png)
+![AWS](../static/img/AWS.png)
