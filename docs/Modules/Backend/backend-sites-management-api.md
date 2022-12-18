@@ -1,20 +1,21 @@
 ---
-sidebar_label: 'Sites Management API'
+sidebar_label: "Sites Management API"
 sidebar_position: 5
-
 ---
 
 # Backend Sites Management API
 [API Swagger Documentation - Sites Management API](https://app.swaggerhub.com/apis/MARIANACABRALROSA01_1/Sites-Management-API/1.0.0)
 
-This will be the base our project. The design of the information model of the Sites Management API was designed in this way:
+The information model of the [Sites Management API](https://github.com/ES-07/sites-management-api) was designed in this way: 
+
+
 
 ![Information Model](../../../static/img/db.png)
 
 
 The **Person** class represents a person, and has columns for storing personal information such as name, email, hashed password, address, and cellphone. It also has a `cognito_id` column, store an identifier for a user within an Amazon Cognito.The Person class has two subclasses: **SecurityManager** and **PropertyOwner**.
 
-The **SecurityManager** class represents a security manager and has a worker_id column that is a foreign key referencing the id column of the Person table. 
+The **SecurityManager** class represents a security manager and has a worker_id column that is a foreign key referencing the id column of the Person table.
 
 The **PropertyOwner** class represents a property owner and has a `property_owner_id` column that is a foreign key referencing the id column of the Person table. It also has a `contract_date` column for storing the date of the property owner's contract, a `notification_type` column for storing the type of notifications the owner prefers to receive, and a relationship with the Person class. The PropertyOwner class has a buildings attribute that represents the buildings owned by the property owner.
 

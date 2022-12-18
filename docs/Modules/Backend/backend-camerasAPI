@@ -1,8 +1,0 @@
----
-sidebar_label: "Cameras API"
----
-
-# Cameras API
-
-[Cameras API](https://github.com/ES-07/es_gap_2022_helpers/blob/main/HumanDetection/camera/master.py) was developed with a single endpoint responsible to send the videos to Intrusion Management API.
-It will get the intrusion timestamp and then will get the video 3 minutes before and 3 minutes after the intrusion. The video is split in frames and each one is send through RabbitMQ.
