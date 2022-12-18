@@ -4,6 +4,7 @@ sidebar_label: 'Story Points'
 
 # Story Points
 
+
 To attribute points to our stories, we inspire us in the following table:
 
 | How much is known about the task | Everything | Almost everything | Something | Almost nothing | Nothing | Nothing |
@@ -15,4 +16,4 @@ To attribute points to our stories, we inspire us in the following table:
 
 The story points follow a *Fibonacci Sequence*.
 
-In a group meeting each of us said our opinion regarding how many points a user story should have, 
+In a group meeting each of us said our opinion regarding how many points a user story should have, then we did the average of each one and attributed the pontuation.
