@@ -7,9 +7,10 @@ sidebar_position: 5
 # Backend Sites Management API
 [API Swagger Documentation - Sites Management API](https://app.swaggerhub.com/apis/MARIANACABRALROSA01_1/Sites-Management-API/1.0.0)
 
-The information model of the Sites Management API was designed in this way:
+This will be the base our project. The design of the information model of the Sites Management API was designed in this way:
 
 ![Information Model](../../../static/img/db.png)
+
 
 The **Person** class represents a person, and has columns for storing personal information such as name, email, hashed password, address, and cellphone. It also has a `cognito_id` column, store an identifier for a user within an Amazon Cognito.The Person class has two subclasses: **SecurityManager** and **PropertyOwner**.
 

@@ -1,6 +1,6 @@
 # AWS 
 
-As previously refered in the [Project Presentation](https://es-docusaurus-documentation.netlify.app/docs/hello/), this project has several modules and diferent technologies. In the course *Software Enginner*, one of the focus is to explore Amazon Web Services (AWS).  
+As previously referred in the [Project Presentation](https://es-docusaurus-documentation.netlify.app/docs/hello/), this project has several modules and different technologies. In the course *Software Engineer*, one of the focus is to explore Amazon Web Services (AWS).  
 
 AWS is a cloud computing platform offered by Amazon.com. It provides a range of services including computing, storage, networking, database, analytics, machine learning, security, and more. These services can be used to build, deploy, and run applications, websites, and other services.
 
