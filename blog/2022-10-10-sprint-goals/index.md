@@ -46,3 +46,5 @@ After the sprint review, the stakeholders advise us to take "baby steps". Our go
 
 - What went badly? For the next sprint, we will try to go more focused in something smaller.
 
+#### Burndown Chart
+![Burndown Chart of sprint 0](sprint0.png)

@@ -50,3 +50,7 @@ Story Points Delivered: 0
 - What could be improved? Better time management.
 
 - What went badly? The team had a lot of other work from other courses.
+
+
+#### Burndown Chart
+![Burndown Chart of sprint 3](sprint3.png)

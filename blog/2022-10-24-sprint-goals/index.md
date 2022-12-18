@@ -49,6 +49,5 @@ Story Points Delivered: 3
 - What went badly? Nothing serious. 
 
 
-
-
-
+#### Burndown Chart
+![Burndown Chart of sprint 2](sprint2.png)
