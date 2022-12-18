@@ -1,76 +1,76 @@
-# AWS Cloud Architecture
+## AWS Cloud Architecture
 
 ![AWS Cloud Architecture](../static/img/aws_architecture.png)
 
-# Application Load Balancer
+## Application Load Balancer
 
 The AWS Application Load Balancer is responsible for listening to user requests on port 80 and route them to the correct target group, according to the URL path. The figure below depicts the three rules for the ALB that forward the request to the correct target group:
 
 ![ALB Rules](../static/img/alb_rules.png)
 
-# Target Group
+## Target Group
 
 There are three target groups associated with the project's load balancer and each one of the target groups has a registered container instance mapping to the correct port and a health check path so that the ALB can know if the task/container is alive for request routing.
 
 ![ALB Rules](../static/img/alb_rules.png)
 
-## client-web-ui-tg
+### client-web-ui-tg
 
 ![Client Web Target Group](../static/img/client-tg.png)
 
-## intrusion-api-tg
+### intrusion-api-tg
 
 ![Intrusion API Target Group](../static/img/intrusion-tg.png)
 
-## sites-management-api-tg
+### sites-management-api-tg
 
 ![Sites Management API Target Group](../static/img/sites-tg.png)
 
 
-# Security Groups
+## Security Groups
 
 For security purposes, we created different security groups for different microservices and AWS services to control the inbound traffic. 
 
 Besides the security groups for the modules of this project, we also have a security group to allow access to AWS ElastiCache for Redis from the Human Detection Module, two security groups for traffic between AWS RDS PostgreSQL instance and the Sites Management API and, finally, a security group that allows HTTP traffic on port 80 from everywhere.
 
-## Application Load Balancer Security Group
+### Application Load Balancer Security Group
 
 ![ALB Target Group](../static/img/alb-sg.png)
 
-## Client Web UI Security Group
+### Client Web UI Security Group
 
 ![Client Web UI Target Group](../static/img/client-sg.png)
 
-## Manager Web UI Security Group
+### Manager Web UI Security Group
 
 ![Manager Web UI Target Group](../static/img/manager-sg.png)
 
-## Intrusion Management API Security Group
+### Intrusion Management API Security Group
 
 ![Intrusion API Target Group](../static/img/intrusion-sg.png)
 
-## Sites Management API Security Group
+### Sites Management API Security Group
 
 ![Sites Target Group](../static/img/sites-sg.png)
 
-## Cameras API Security Group
+### Cameras API Security Group
 
 ![Cameras API Target Group](../static/img/cameras-sg.png)
 
-## EC2 to RDS Security Group
+### EC2 to RDS Security Group
 
 ![ALB Target Group](../static/img/ec2-rds-sg.png)
 
-## RDS to EC2 Security Group
+### RDS to EC2 Security Group
 
 ![ALB Target Group](../static/img/rds-ec2-sg.png)
 
-## Redis Security Group
+### Redis Security Group
 
 ![ALB Target Group](../static/img/redis-sg.png)
 
 
-# Microservice Deployment
+## Microservice Deployment
 
 
 These are the steps we took in the initial steps of the project's deployment in AWS:
