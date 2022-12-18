@@ -56,3 +56,7 @@ Story Points Delivered: 8
 - What could be improved? Nothing.
 
 - What went badly? A lot of AWS problems, in the next sprint we will try other solutions.
+
+
+#### Burndown Chart
+![Burndown Chart of sprint 4](sprint4.png)
