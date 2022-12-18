@@ -2,17 +2,23 @@
 
 ![AWS Cloud Architecture](../static/img/aws_architecture.png)
 
+
+
 ## Application Load Balancer
 
 The AWS Application Load Balancer is responsible for listening to user requests on port 80 and route them to the correct target group, according to the URL path. The figure below depicts the three rules for the ALB that forward the request to the correct target group:
 
 ![ALB Rules](../static/img/alb_rules.png)
 
+
+
+
 ## Target Group
 
 There are three target groups associated with the project's load balancer and each one of the target groups has a registered container instance mapping to the correct port and a health check path so that the ALB can know if the task/container is alive for request routing.
 
 ![ALB Rules](../static/img/alb_rules.png)
+
 
 ### client-web-ui-tg
 
@@ -25,6 +31,9 @@ There are three target groups associated with the project's load balancer and ea
 ### sites-management-api-tg
 
 ![Sites Management API Target Group](../static/img/sites-tg.png)
+
+
+
 
 
 ## Security Groups
@@ -70,8 +79,10 @@ Besides the security groups for the modules of this project, we also have a secu
 ![ALB Target Group](../static/img/redis-sg.png)
 
 
-## Microservice Deployment
 
+
+
+## Microservice Deployment
 
 These are the steps we took in the initial steps of the project's deployment in AWS:
 
