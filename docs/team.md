@@ -1,5 +1,7 @@
 ---
 sidebar_label: 'Our team'
+sidebar_position: 2
+
 
 ---
 # Meet our team

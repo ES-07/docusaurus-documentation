@@ -4,6 +4,7 @@ sidebar_position: 5
 ---
 
 # Backend Sites Management API
+[API Swagger Documentation - Sites Management API](https://app.swaggerhub.com/apis/MARIANACABRALROSA01_1/Sites-Management-API/1.0.0)
 
 The information model of the [Sites Management API](https://github.com/ES-07/sites-management-api) was designed in this way:
 
