@@ -9,7 +9,7 @@ sidebar_position: 7
 
 
 
-For the workflow of this project we used [Jira Software](https://www.atlassian.com/software/jira) to keep track of our sprints and assigned tasks. We have every other day meetings to check what every member of the team have developed, what difficulties they are overpassing and which user stories and tasks have higher priority in that moment, besides the initial user story prioritization. We also intend to do Pull Requests for each developing feature during our meeting, therefore we can always have the code merged, organized and that everyone is aware of what is being done. For each feature on our applications, a new branch will be created.
+For the workflow of this project we used [Jira Software](https://www.atlassian.com/software/jira) to keep track of our sprints and assigned tasks. We have every other day meetings to check what every member of the team have developed, what difficulties they are having and which user stories and tasks have higher priority in that moment, besides the initial user story prioritization. We also intend to do Pull Requests for each developing feature during our meeting, therefore we can always have the code merged, organized and that everyone is aware of what is being done. For each feature on our applications, a new branch will be created.
 
 ![JiraBoard](../static/img/backlogg.png)
 

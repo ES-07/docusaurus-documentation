@@ -38,7 +38,7 @@ Story Points Estimated: 5
 
 ## Sprint Review
 
-This sprint was not one of the bests, multiple reasons why. However, the fact that the API Sites Management was pratically done was a great thing and the two API can already comunicate and send video to AWS.
+This sprint was not one of the bests, multiple reasons why. However, the fact that the API Sites Management was practically done was a great thing and the two API can already communicate and send video to AWS.
 
 Story Points Delivered: 0
 
