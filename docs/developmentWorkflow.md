@@ -5,6 +5,20 @@ sidebar_position: 7
 
 # Development Workflow
 
+## Agile
+
+For developing this project, the Agile method was used. It's the most used method in the software development industry in these days. Agile is a set of principles and practices for software development that emphasizes flexibility, collaboration, and rapid delivery. 
+
+In terms of methodology, the team will use Scrum, a specific methodology that is based on the Agile principles. We will work in Sprints with the goal of delivering a working product at the end of each Sprint that meets the requirements of the stakeholders and the DoD. The Sprints in the beginning of the project were of only one week, but as the project progresses, the Sprints were increased to two weeks.
+
+The team tried to reunited every two days to discuss the progress of the project and the difficulties that each member was facing. The Scrum Master was responsible for organizing the meetings and the Product Owner was responsible for prioritizing the user stories and tasks. The team was responsible for developing the user stories and tasks assigned to them.
+
+At the end of each Sprint, the team had a Sprint Review meeting with the stakeholders to show the progress of the project and to receive feedback. The team also had a Sprint Retrospective meeting at the end of that day, to discuss what went well, what could be improved and what went badly in the Sprint. 
+
+
+
+
+
 ## Jira 
 
 

@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'CI and CD'
+sidebar_label: 'CI/CD'
 sidebar_position: 5
 ---
 
