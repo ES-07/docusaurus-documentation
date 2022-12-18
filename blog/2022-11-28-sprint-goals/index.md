@@ -23,7 +23,7 @@ These sprint will be the final sprint.
 User story:
 * As Alexandre, I want to store CCTV footage of the intrusion, so that I can use that information as legal proof and serve it to the client (13 story points)
 
-* As Alexandre, I want to know my clients information, so that I can be in contact with them whenever I need. (3)
+* As Alexandre, I want to know my clients information, so that I can be in contact with them whenever I need. (3 story points)
 
 The goals will be:
 
