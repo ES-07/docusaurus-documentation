@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Frontend Client Web UI (User Interface)'
+sidebar_label: 'Front-end Client Web UI (User Interface)'
 ---
 
-# Frontend - Website Client UI
+# Front-end - Website Client UI

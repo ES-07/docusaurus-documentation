@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Backend'
+sidebar_label: 'Back-end'
 ---
 
-# Backend Sites Management API
+# Back-end Sites Management API

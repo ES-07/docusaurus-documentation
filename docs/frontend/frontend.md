@@ -1,10 +1,10 @@
 ---
-sidebar_label: 'Frontend'
+sidebar_label: 'Front-end'
 
 ---
-# Frontend
+# Front-end
 
-For the frontend we chose to use a framework the team was comfortable with, [Angular](https://angular.io/). 
+For the front-end we chose to use a framework the team was comfortable with, [Angular](https://angular.io/). 
 
 Angular is a JavaScript framework for building web applications. It is maintained by Google and a community of developers and companies.
 
@@ -15,3 +15,5 @@ Angular also has a strong focus on declarative templates, dependency injection, 
 Another advantage of Angular is its use of TypeScript, a typed superset of JavaScript that helps developers write more predictable and maintainable code. TypeScript provides features such as type checking, interfaces, and classes, which can improve the overall quality of an Angular application.
 
 Overall, Angular is a powerful and feature-rich framework that is well-suited for building large, complex applications. Its component-based architecture, declarative templates, and use of TypeScript make it easy for developers to build and maintain high-quality applications.
+
+As some of the members were really used to use Angular, it saved a lot of time, because no time was consumed to learn the framework. Also, the debug time was much faster due to the experience in previous projects. However, the team had a few problems connecting it to AWS. It had almost no documentation .... reis completa
