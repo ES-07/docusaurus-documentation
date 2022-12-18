@@ -30,18 +30,18 @@ The architecure of the solution will be the follow:
 ### Technologies
 | Module | Technology |
 | --- | --- |
-| Cameras | Python  |
-| Message Broker | RabbitMQ |
+| Cameras API | FastAPI  |
+| Message Broker | AWS MQ |
 | Human Detection Module (HDM) | Python + Redis |
 | Intrusion Management API | FastAPI + Docker + AWS S3 |
 | Sites Management API | FastAPI + Docker + PostgreSQL |
-| Notifications API | FastAPI + Docker  |
+| Notifications API | --  |
 | Management’s Web UI | Angular + Docker |
 | Client’s Web UI | Angular + Docker |
-| Service Discovery | AWS CloudMap |
+| Service Discovery | -- |
 | IDP | AWS Cognito |
-| Logs Monitor | ELK Stack |
-| Metrics Monitor | Prometheus + Grafana |
+| Logs Monitor | -- |
+| Metrics Monitor | -- |
 
 
 ### Details about the modules 
