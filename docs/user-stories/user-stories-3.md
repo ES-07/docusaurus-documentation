@@ -1,6 +1,5 @@
 ---
-sidebar_label: 'Definition of Ready'
-sidebar_position: 2
+sidebar_label: 'User Story Readiness Criteria'
 ---
 
 # Definition of ready
