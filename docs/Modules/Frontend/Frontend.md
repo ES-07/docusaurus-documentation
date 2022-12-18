@@ -4,7 +4,7 @@ sidebar_label: 'Frontend'
 ---
 # Frontend
 
-![Angular](../static/img/angular.png)
+![Angular](../../../static/img/angular.png)
 
 
 For the front-end we chose to use a framework the team was comfortable with, [Angular](https://angular.io/). 
