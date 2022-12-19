@@ -22,11 +22,12 @@ buildings monitored.
 
 ## Project links
 
-**Video API*: http://13.38.103.68:8003/
-**Manager UI*: http://15.236.180.177:4202/
-**Client UI*: http://alb-924031478.eu-west-3.elb.amazonaws.com/
-**Intrusion API*: http://alb-924031478.eu-west-3.elb.amazonaws.com/intrusion-management-api/
-**Sites API*: http://alb-924031478.eu-west-3.elb.amazonaws.com/sites-management-api/
+**Video API**: http://13.38.103.68:8003/
+
+**Manager UI**: http://15.236.180.177:4202/
+**Client UI**: http://alb-924031478.eu-west-3.elb.amazonaws.com/
+**Intrusion API**: http://alb-924031478.eu-west-3.elb.amazonaws.com/intrusion-management-api/
+**Sites API**: http://alb-924031478.eu-west-3.elb.amazonaws.com/sites-management-api/
 **Github Repository**:https://github.com/ES-07
 
 
