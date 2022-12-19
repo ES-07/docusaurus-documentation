@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Lessons Learned'
-sidebar_position: 8
+sidebar_position: 5
 ---
 
 # Lessons Learned
