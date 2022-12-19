@@ -20,10 +20,19 @@ detected. Besides this, SecCom also expects that your team develops a top-to-bot
 can use manage the cameras and alarms installed on-premises and to manage all their clients and
 buildings monitored.
 
+## Project links
+
+**Video API*: http://13.38.103.68:8003/
+**Manager UI*: http://15.236.180.177:4202/
+**Client UI*: http://alb-924031478.eu-west-3.elb.amazonaws.com/
+**Intrusion API*: http://alb-924031478.eu-west-3.elb.amazonaws.com/intrusion-management-api/
+**Sites API*: http://alb-924031478.eu-west-3.elb.amazonaws.com/sites-management-api/
+**Github Repository**:https://github.com/ES-07
+
 
 ## Architecture
 
-The architecure of the solution will be the follow: 
+The architecture of the solution will be the follow: 
 
 ![Architecture](../static/img/architecture.png)
 

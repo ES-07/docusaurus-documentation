@@ -4,7 +4,7 @@ title: 5th sprint
 authors: [ricardo]
 tags: [Fifth Week, Goals]
 ---
-..........
+
 # Sprint 5
 
 **From**: 28/11/2022
