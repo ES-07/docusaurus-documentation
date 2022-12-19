@@ -6,11 +6,13 @@ sidebar_label: 'Manager Web UI (User Interface)'
 
 The Frontend Manager is a simple and intuitive system. 
 It has several pages:
-(por imgs)
+
 
 ### Login/Sign in Page
 
-...
+The manager can login or sign in. If he doesn't have an account, he can click on the "Sign in" button and then he will be redirected to the sign in page.
+
+![Login/Sign in Page](manager_login.png)
 
 ### Client page
 
