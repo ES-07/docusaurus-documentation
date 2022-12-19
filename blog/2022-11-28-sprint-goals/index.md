@@ -29,7 +29,8 @@ The goals will be:
 
 * Connect everything (AWS) and deploy them;
 * More focus on documentation;
-COMPLETARRRRRRRRRRRRRRRRRR
+* Fix some bugs;
+
 
 Story Points Estimated: 16
 
@@ -43,7 +44,7 @@ Story Points Delivered: 16
 
 ## Sprint Retrospective 
 
- - What went well? The sprint itself, the team was really focused and motivated to delivery the User Stories
+- What went well? The sprint itself, the team was really focused and motivated to delivery the User Stories
 
 - What could be improved? Nothing.
 
