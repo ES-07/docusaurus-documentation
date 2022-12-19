@@ -10,7 +10,7 @@ It has several pages:
 
 ### Login/Sign in Page
 
-...
+![Login/Sign in Page](manager_login.png)
 
 ### Client page
 
