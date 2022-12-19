@@ -7,7 +7,7 @@ sidebar_label: 'User Stories'
 
 The user stories are one of the most important things on a project. A user story is a short description of a feature or functionality from the perspective of an end user. It is used in agile development to capture the requirements of a feature in a format that is easy to understand and prioritize. User stories help teams to focus on the needs of the end user and to build features that are valuable to them. They are an important tool in agile development and are used in conjunction with other agile practices to deliver high-quality software quickly and efficiently.
 
-We define some of them and prioritezed them in a scale of 1 to 3 (from the most priority to the less priority). In this way is possible to identifying and prioritizing the most important user stories for the project. 
+We define some of them and prioritized them in a scale of 1 to 3 (from the most priority to the less priority). In this way is possible to identifying and prioritizing the most important user stories for the project. 
 
 In a group meeting each of us said our opinion regarding how much of a priority a user story should have, based on the value, risk, dependencies and estimation of time. Then we did the average of each one and attributed one priority:
 

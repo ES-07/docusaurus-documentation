@@ -7,7 +7,7 @@ sidebar_label: 'Definition of ready'
 A user story is ready when accomplished all of the items above. This mean that a user story is considered ready to be worked on. 
 Meeting these criteria can help to ensure that user stories are well-defined and ready to be worked on by the team. This can help to improve the efficiency and effectiveness of the development process and result in higher-quality software. 
 
-The caracteristics are:
+The characteristics are:
 
 - Every member of the team should give their opinion about the user story;
 - User story well written and defined;
