@@ -1,6 +1,6 @@
 ---
 sidebar_label: 'Lessons Learned'
-sidebar_position: 8
+sidebar_position: 5
 ---
 
 # Lessons Learned
@@ -21,7 +21,7 @@ What we've learned or what we could improve in the future:
 - It's important to update the Jira tasks when they are in progress or ready, so that the Scrum Master and the rest of the team can know if the spring goal is going to be achieved or not
 - It's very important to follow all requirements of the Definition of Done, since not doing it only creates technical debt for the future and problems will arise
 
-And in relation to development worflow: 
+And in relation to development workflow: 
 
 - We consolidated the need to give good and evident names for Git branches
 - We should delete branches when the pull request is merged (this could be improved, although it's not 100% urgent)

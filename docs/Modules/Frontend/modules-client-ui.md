@@ -14,15 +14,16 @@ The user can login or sign in. If he doesn't have an account, he can click on th
 
 ### Properties page
 
-The client can see the list of properties that he owns.If he clicks on one of them, he will be redirected to the property page, where he was information about the property, the devices and the intrusions that occurred in the property.  
+The client can see the list of properties that he owns. If he clicks on one of them, he will be redirected to the property page, where he has information about the property, the devices and the intrusions that occurred in the property.  
 
-He can see what devices are in the property, what type they are, change their state (or see).
+### Property page
 
+He can see what devices are in the property, what type they are, change and view their state. He can also see the intrusions that occurred in the property.
 
 
 ### Intrusion page
 
-Here is reunited all of the intrusions that occurred to all his properties. A intrusion is characterized by the timestamp, the device that was triggered and of course, what property did it occurred. It is also possible to download them. This table has the same filtering/sorting characteristic that the client page has. 
+Here is reunited all of the intrusions that occurred to all his properties. A intrusion is characterized by the timestamp, the device that was triggered and of course, what property did it occurred. It is also possible to download them to serve as legal evidence to report to the police. This table has the same filtering/sorting characteristic to search for name or address of properties. The client can also sort the rows that he wants by clicking on the name of the columns. 
 
 ### Profile page
 
